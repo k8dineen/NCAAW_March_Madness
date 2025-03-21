@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/ncaaw_logo.webp">
-  <HelloWorld msg="Welcome to the 2025 Women's College Basketball March Madness"/>
+  <router-view></router-view>
 </template>
 
 <script>
